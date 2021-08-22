@@ -37,27 +37,27 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'Messenger',
+      icon: 'message-circle',
+      link: 'https://www.messenger.com/t/2404599599644352',
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      name: 'Youtube',
+      icon: 'youtube',
+      link: 'https://www.youtube.com/',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Pinterest',
+      icon: 'image',
+      link: 'https://www.pinterest.ph/',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Netflix',
+      icon: 'tv',
+      link: 'https://www.netflix.com/browse',
     },
     {
       id: '5',
@@ -67,9 +67,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'Map',
+      icon: 'map',
+      link: 'https://webstatic-sea.mihoyo.com/app/ys-map-sea/index.html?lang=en-us#/map/2?shown_types=3&center=2351.00,138.00&zoom=-2.00',
     },
   ],
 
@@ -85,38 +85,38 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Music',
+        link: 'https://www.youtube.com/playlist?list=PLvsKfAjHT1Az1exl0wcBftV3d2MCBzzih',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Writing',
+        link: 'https://www.youtube.com/playlist?list=PLvsKfAjHT1AyLmbZlsUiHEMEdr9MyXfN6',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Playlists',
+        link: 'https://www.youtube.com/playlist?list=PLvsKfAjHT1AwMrtXTVF-yfB8ItrXUlQcP',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Spotify',
+        link: 'https://open.spotify.com/',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Anime',
+        link: 'https://www2.kickassanime.ro/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Ao3',
+        link: 'https://archiveofourown.org/users/TomHanksIsLife',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Chords',
+        link: 'https://www.ultimate-guitar.com/user/mytabs',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Discord',
+        link: 'https://discord.com/channels/@me',
       },
     ],
   },
