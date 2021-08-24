@@ -12,7 +12,7 @@ const CONFIG = {
 
   // General
   name: 'Your Majesty',
-  imageBackground: false,
+  imageBackground: true,
   openInNewTab: true,
   twelveHourFormat: true,
 
@@ -20,7 +20,7 @@ const CONFIG = {
   greetingMorning: 'Good morning!',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingNight: 'Sleep well,',
 
   // Weather
   weatherKey: '6d1c6cf734765bf67a8cb910030a0e33',
