@@ -61,9 +61,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
+      name: 'Class',
       icon: 'bookmark',
-      link: 'https://reddit.com',
+      link: 'https://classroom.google.com/u/2/h',
     },
     {
       id: '6',
